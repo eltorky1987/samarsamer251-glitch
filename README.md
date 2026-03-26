@@ -1,26 +1,35 @@
-# 🚀 مرحباً، أنا Samar
+# 🌹 Torky | التُّركي
 
-مطور برمجيات شغوف بتحويل الأفكار المعقدة إلى حلول تقنية أنيقة وفعالة. أسعى دائماً لكتابة كود نظيف (Clean Code) وقابل للتطوير.
+مرحباً بك في ملفي الشخصي.. هنا حيث تجتمع لغة الأرقام بهيبة الإنجاز.
 
----
-
-## 🛠️ المهارات التقنية
-
-| التصنيف | التقنيات |
-| :--- | :--- |
-| **لغات البرمجة** | Python, JavaScript, TypeScript, Java |
-| **تطوير الويب** | React, Node.js, HTML5, CSS3 |
-| **أدوات و DevOps** | Docker, Git, CI/CD |
-| **قواعد البيانات** | PostgreSQL, MongoDB |
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Monitoring-green?style=for-the-badge&logo=github" alt="Monitoring">
+  <img src="https://img.shields.io/badge/Security-Level-High-red?style=for-the-badge&logo=security" alt="Security">
+</p>
 
 ---
 
-## 📂 مشاريعي على GitHub
+## 🛠️ الترسانة التقنية (Core Capabilities)
 
-### 🔹 تطبيق المصادقة (Stytch Auth)
-*مشروع احترافي لتطبيق نظام تسجيل دخول آمن باستخدام Stytch Magic Links.*
-- **التقنيات:** JavaScript, Stytch SDK, Node.js
-- **الرابط:** [https://github.com/samarsamer251-glitch](https://github.com/samarsamer251-glitch)
+أطور برمجيات ذكية، حلول أمان، وأنظمة مدمجة بأسلوب احترافي:
+
+* **اللغات:** [B]()ython,, C (Embedded), Java Script.
+* **الأنظمة:** IoT (MQ-2), Automation.
+* **أدوات:** Git, Termux, Base64 Crypt.
+
+---
+
+## 🚩 تحدي الحديقة: المستوى 1
+
+الحديقة لا ترحم الضعفاء.. هل يمكنك معرفة ما خلف هذه الشفرة؟
+
+`V2Vsd29tZSB0byBUb3JreSdzIEdhcmRlbi4gWW91J3JlIG5vdyBwYXJ0IG9mIHRoZSBTeXN0ZW0uIA==`
+
+**تلميح:** الأدوات موجودة في مستودع `The Garden`.
+
+---
+
+> "الحديقة لا تحميك برمجياً فقط.. بل تراقب واقعك أيضاً." 🌹
 
 ### 🔹 محفظة المشاريع (Portfolio)
 *مساحة لعرض مهاراتي البرمجية وتطوير الحلول التقنية.*
