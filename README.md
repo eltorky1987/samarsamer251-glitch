@@ -41,10 +41,17 @@
 ---
 
 ## 💎 محفظة المشاريع (Portfolio)
-*توسيع مهاراتك لمزيد من الحلول التقنية:*
+*إدارة وتطوير الحلول التقنية المتقدمة:*
 
-* **Experimental Research:** [samarsamer251-glitch](https://github.com/eltorky1987/samarsamer251-glitch)
-* **Contact for Security:** `samarsamer251@gmail.com`
+* **Security Projects:** [Agina-Project](https://github.com/eltorky1987/Agina-Project)
+* **IoT Research:** [SmokeDetector](https://github.com/eltorky1987/SmokeDetector)
+* **Experimental Lab:** [samarsamer251-glitch](https://github.com/eltorky1987/samarsamer251-glitch)
+
+---
+
+## 📩 تواصل معي (Contact)
+*للاستفسارات الأمنية أو التعاون التقني:*
+* **Email:** `m2117513495@gmail.com`
 
 ---
 
@@ -54,37 +61,4 @@
 
 <div align="center">
   "الكود الغاضب هو الكود الذي يستطيع فهمه لأي شخص وتطويره." 🛡️
-</div>
-
-
-**تلميح:** الأدوات موجودة في مستودع `The Garden`.
-
----
-
-> "الحديقة لا تحميك برمجياً فقط.. بل تراقب واقعك أيضاً." 🌹
-
-### 🔹 محفظة المشاريع (Portfolio)
-*مساحة لعرض مهاراتي البرمجية وتطوير الحلول التقنية.*
-- **التقنيات:** React, CSS, Git
-- **الرابط:** [https://github.com/samarsamer251-glitch](https://github.com/samarsamer251-glitch)
-
----
-
-## 📈 إحصائيات GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarsamer251-glitch&show_icons=true&theme=radical&count_private=true" />
-</div>
-
----
-
-## 📬 تواصل معي
-
-* 💼 **GitHub:** [https://github.com/samarsamer251-glitch](https://github.com/samarsamer251-glitch)
-* 📧 **Email:** [samarsamer251@gmail.com](mailto:samarsamer251@gmail.com)
-
----
-
-<div align="center">
-  <sub>"الكود الجيد هو الكود الذي يستطيع أي شخص فهمه وتطويره."</sub>
 </div>
